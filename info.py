@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '24294638'))
 API_HASH = environ.get('API_HASH', 'ee60437efa3f3175a4f51031dd2ec219')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8011485073:AAFzy4b32MC0Q2X0iW9pbMeTAWKqFQ0XfaE")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
